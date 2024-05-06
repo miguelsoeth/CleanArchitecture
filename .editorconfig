@@ -1,5 +1,6 @@
 ###############################
-# Core EditorConfig Options   #
+# Core EditorConfig Options   #   
+#  Deps                       #
 ###############################
 root = true
 # All files
